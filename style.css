@@ -1,0 +1,113 @@
+body {
+  background-color: #bef0cb;
+
+  margin: 0px;
+}
+
+.a1 {
+  background-color: #2192ff;
+  position: relative;
+  text-align: center;
+  padding-top: 60px;
+  font-size: 25px;
+}
+h1 {
+  font-size: 50px;
+  font-family: "Fasthand", cursive;
+  color: silver;
+}
+h2,
+h3 {
+  font-size: 40px;
+  font-family: "Fasthand", cursive;
+  color: silver;
+}
+
+p {
+  font-family: "Dancing Script", cursive;
+}
+
+.c1 {
+  position: absolute;
+  right: 500px;
+  top: 100px;
+}
+
+.c2 {
+  position: absolute;
+  bottom: 300px;
+}
+.Mo {
+  padding-top: 50px;
+  width: 600px;
+}
+.d1 {
+  text-align: center;
+  font-size: 20px;
+}
+hr {
+  width: 500px;
+}
+h2 {
+  text-align: center;
+}
+.pro {
+  border-radius: 100%;
+  width: 150px;
+  padding-top: 25px;
+}
+.div2 {
+  position: relative;
+  margin: 50px;
+  margin-bottom: 100px;
+  font-size: 20px;
+}
+.t1 {
+  position: absolute;
+  left: 500px;
+}
+.div3 {
+  position: relative;
+  margin: 300px;
+  margin-top: 200;
+  margin-bottom: 50px;
+  font-size: 25px;
+}
+
+.t2 {
+  position: relative;
+}
+
+.myphoto {
+  border-radius: 100px;
+  width: 300px;
+}
+.myphoto1 {
+  border-radius: 100px;
+  width: 200px;
+}
+
+.my1 {
+  border-radius: 100px;
+  width: 250px;
+}
+.my2 {
+  border-radius: 100px;
+  width: 200px;
+}
+.div4 {
+  margin-top: 100px;
+  margin-bottom: 200px;
+  text-align: center;
+  font-size: 25px;
+}
+.div5 {
+  background-color: #a6b1bc;
+  text-align: center;
+  height: 100px;
+}
+.a {
+  width: 70px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
